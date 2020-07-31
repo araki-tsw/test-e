@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello6
-=======
-hello5.2
->>>>>>> develop
